@@ -1,7 +1,8 @@
 var res = {
-    HelloWorld_png : "res/HelloWorld.png",
-    CloseNormal_png : "res/CloseNormal.png",
-    CloseSelected_png : "res/CloseSelected.png"
+	loading: "res/loading.jpg",
+	menuBg: "res/menuBg.jpg",
+	startMenuPlay: "res/startMenuPlay.png",
+	startMenuPlayActive: "res/startMenuPlayActive.png"
 };
 
 var g_resources = [];
